@@ -55,3 +55,5 @@ ul :first-child{
     margin-right: auto;
 }
 </style>
+
+// side menu bar and home page creation 
